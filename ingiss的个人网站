@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style type="text/css">
+      h1 {
+        width: auto;
+        height: 1000px;
+        background: url(https://s1.328888.xyz/2022/07/27/DtWLh.jpg);
+      }
+    </style>
+  </head>
+  <body>
+    <h1 style="text-align: center; padding: 80px; color: rgb(226, 43, 217)">
+      Welcome to my personal website
+
+      <p>
+        <font size="4"
+          ><a
+            href="https://www.bilibili.com/?spm_id_from=333.999.b_696e7465726e6174696f6e616c486561646572.1"
+            >My Bilibili homepage</a
+          ></font
+        >
+      </p>
+      <p style="padding: 10px; text-align: left; font-size: 20px">
+        \(^o^)/~<a href="">电子书专场</a>
+      </p>
+      <p
+        style="
+          color: rgb(12, 120, 236);
+          padding: 10px;
+          text-align: right;
+          font-size: 20px;
+        "
+      >
+        <a href="">大学生活必备</a>(＾－＾)V
+      </p>
+      <p
+        style="
+          color: rgb(252, 8, 8);
+          padding: 10px;
+          text-align: left;
+          font-size: 20px;
+        "
+      >
+        ^_^<a href="">学习网站合集</a>
+      </p>
+      <p
+        style="
+          color: rgb(233, 17, 175);
+          padding: 10px;
+          text-align: right;
+          font-size: 20px;
+        "
+      >
+        <a href="">必备软件</a>(*^▽^*)
+      </p>
+      <p
+        style="color: tomato; padding: 10px; text-align: left; font-size: 20px"
+      >
+        ♪(^∇^*)<a href="">实用技能</a>
+      </p>
+    </h1>
+  </body>
+</html>
